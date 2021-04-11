@@ -14,4 +14,4 @@ jenkins:
         - mailer:
             emailAddress: "jigglypuff@"
 jobs:
-  - url: "https://raw.githubusercontent.com/EpitechIT2020/T-DOP-600-LYN-6-1-bsmymarvin-gillian.bruyas/master/job_dsl.groovy?token=AKV3KIYOTOFAVKJFA25B2QDAOHZAK"
+  - url: "https://raw.githubusercontent.com/Gillian-B/Jenkins-bs/master/job_dsl.groovy"
